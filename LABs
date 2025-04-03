@@ -61,27 +61,28 @@ LAB 16 - Cloud Spanner: Qwik Start
        - Cloud Spanner - Database Fundamentals
 
 
-LAB 18 - Bigtable: Qwik Start - Command Line
+LAB 17 - Bigtable: Qwik Start - Command Line
 
 
-LAB 19 - Getting Started with Cloud Storage and Cloud SQL
+LAB 18 - Getting Started with Cloud Storage and Cloud SQL
          (https://www.cloudskillsboost.google/focuses/19064?parent=catalog)
 
 
-LAB 20 - App Dev: Setting up a Development Environment
+LAB 19- App Dev: Setting up a Development Environment
          (https://www.cloudskillsboost.google/focuses/1014?parent=catalog)
 
-LAB 21 - App Engine: Qwik Start - Python
+LAB 20 - App Engine: Qwik Start - Python
 
 
-LAB 22 - Getting Started with GKE
+LAB 21 - Getting Started with GKE
          (https://www.cloudskillsboost.google/focuses/19067?parent=catalog)
 
 
-LAB 23 - Deploying Google Kubernetes Engine
+LAB 22 - Deploying Google Kubernetes Engine
          (https://www.cloudskillsboost.google/course_sessions/21622055/labs/450919)
 
-       - Deploying Google Kubernetes Engine Clusters from Cloud Shell
+
+LAB 23  - Deploying Google Kubernetes Engine Clusters from Cloud Shell
          (https://www.cloudskillsboost.google/focuses/19124?parent=catalog)
 
        - Creating Google Kubernetes Engine Deployments
